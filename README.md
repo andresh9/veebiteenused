@@ -1,4 +1,4 @@
-1)REST-api.rar installation:
+1) REST-api.rar installation:
 
 1. Download .rar package
 2. Import "REST_app" and "REST_service" as "Maven > Existing Maven Projects" in Eclipse EE
@@ -11,7 +11,7 @@ Link that can be used to sort cars by model that start with letter "3" for examp
 Second link to get all cars in json:
 http://localhost:8080/REST_service/service/cars
 
-2)idu0080-kodutoo2.rar(Hajuspäringu veahaldus) installation:
+2) idu0080-kodutoo2.rar ("Hajuspäringu veahaldus" home assignment 2) installation:
 
 1. Download .rar package
 2. Import "Yl4_Kodune_Klient" and "Yl4_Kodune_Server" as "General > Existing Projects into Workplace" in Eclipse EE
